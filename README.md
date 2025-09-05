@@ -1,6 +1,6 @@
 # Network-based proactive contact tracing
-Network-based proactive contact tracing: A pre-emptive, degree-based alerting framework for privacy-preserving COVID-19 apps*  
-Diaoulé Diallo*, Tobias Hecking  
+*Network-based proactive contact tracing: A pre-emptive, degree-based alerting framework for privacy-preserving COVID-19 apps*  
+Diaoulé Diallo, Tobias Hecking  
 German Aerospace Center (DLR), Institute of Software Technology, Sankt Augustin, Germany
 
 ---
