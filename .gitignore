@@ -1,0 +1,22 @@
+# Ignore cache folders
+cache*/
+cache_*/
+
+# Ignore results folders
+results*/
+results_*/
+
+npz_files*/
+
+# Ignore dlcc folders
+dlcc*/
+**/dlcc*/
+# Ignore temp_chunks folder
+temp_chunks/
+
+# Ignore Python cache directories everywhere
+__pycache__/
+**/__pycache__/
+
+# Ignore everything inside data/
+data/micro_abm_contacts30.csv
